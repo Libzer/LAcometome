@@ -8,7 +8,7 @@ class IndexController extends Controller
 {
     public function index()
     {
-        return view('Wool.index');
+        return view('.index');
 
     }
 }
